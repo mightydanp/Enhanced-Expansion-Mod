@@ -1,0 +1,16 @@
+//Crops
+Spring crops, Radish, Carrot
+Summer crops, Cucumber, Sweet Potato
+Fall crops,   Green Beans, Broccoli, Onion, Lettuce
+
+//Sprinting.
+Press c while walking to sprint. Caution it will deplete stanima slowly. 1 per second.
+
+//Hard Core Mobs 
+harder mobs after 1 year with boosted cave loot. More health on mobs, aswell as the more you go down in the mine in the desert the harder the mobs. Ability to forget basic mine levels for boosted loot and harder mobs.
+
+//Add magic.
+Fire
+Water
+Earth
+Wind
