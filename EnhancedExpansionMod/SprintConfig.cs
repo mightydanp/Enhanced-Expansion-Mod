@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework.Input;
 
-namespace SprintAndDashRedux{
-    public class SprintDashConfig{
+namespace EnhancedExpansionMod{
+    public class SprintConfig{
         /*Accessors*/
         //<summary>The key to hold for sprinting.</summary>
         public Keys SprintKey { get; set; } = Keys.Space;

@@ -6,7 +6,7 @@ using StardewModdingAPI;
 using StardewModdingAPI.Events;
 using StardewValley;
 
-namespace Sprint{
+namespace EnhancedExpansionMod{
     public class SprintMain : Mod{
         //Properties
         private SprintConfig Config;
